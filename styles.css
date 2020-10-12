@@ -1,0 +1,28 @@
+body {
+    background-color: mediumpurple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.assignment{
+    display:flex;
+    padding:10px;
+    margin:10px;
+    background-color: skyblue;
+}
+
+.assignment img {
+    width:220px;
+    padding:10px;
+    border: 2px solid gray;
+    margin-right:20px;
+}
+
+h1{
+    color: darksalmon;
+    text-align: center;
+}
+
+a{
+    text-decoration:none;
+    color: black;
+}
